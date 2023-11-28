@@ -119,6 +119,35 @@ export PATH="$PATH:~/.gem/gems/lefthook-0.7.7/bin"
     - [cd_staging.yaml](.github/workflows/cd_staging.yaml)
     - [cd_production.yaml](.github/workflows/cd_production.yaml)
 
+## Paari.io Notes
+
+## Languages of India
+
+| is Added       |Language | Family         | ISO 639 code    |
+|----------------|-------------------|:---------------|:----------------|
+| No             | Assamese          | Indo-Aryan     | as              |
+| No             | Bengali(Bangla)   | Indo-Aryan     | bn              |
+| No             | Bodo              | Sino-Tibetan   | brx             |
+| No             | Dogri             | Indo-Aryan     | doi             |
+| No             | Gujarati          | Indo-Aryan     | gu              |
+| Yes            | Hindi             | Indo-Aryan     | hi              |
+| Yes            | Kannada           | Dravidian      | kn              |
+| No             | Kashmiri          | Indo-Aryan     | ks              |
+| No             | Konkani           | Indo-Aryan     | gom             |
+| No             | Maithili          | Indo-Aryan     | mai             |
+| Yes            | Malayalam         | Dravidian      | ml              |
+| No             | Meitei (Manipuri) | Sino-Tibetan   | mni             |
+| Yes            | Marathi           | Indo-Aryan     | mr              |
+| No             | Nepali            | Indo-Aryan     | ne              |
+| No             | Odia              | Indo-Aryan     | or              |
+| No             | Punjabi           | Indo-Aryan     | pa              |
+| No             | Sanskrit          | Indo-Aryan     | sa              |
+| No             | Santali           | Austroasiatic  | sat             |
+| No             | Sindhi            | Indo-Aryan     | sd              |
+| Yes            | Tamil             | Dravidian      | ta              |
+| Yes            | Telugu            | Dravidian      | te              |
+| Yes            | Urdu              | Indo-Aryan     | ur              |
+
 ## License
 
 MIT

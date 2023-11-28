@@ -7,7 +7,7 @@ class UiConstants {
   static const shimmerItemCount = 20;
 
   /// material app
-  static const materialAppTitle = 'My App';
+  static const materialAppTitle = 'Vaakku App';
 // ignore: avoid_hard_coded_colors
   static const taskMenuMaterialAppColor = Color.fromARGB(255, 153, 154, 251);
 
